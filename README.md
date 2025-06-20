@@ -1,0 +1,2 @@
+# ASI Assignment
+This repository contains the code for the ASI assignment, which consists in reproducing the results from the paper **Weight Uncertainty in Neural Networks** by Blundell et al. (2015). We have organized the code into 3 python scripts, which contain configuration information, utility functions and implementation of the neural networks used, and 3 jupyter notebooks, which contain the classification, regression and cotnextual bandit tasks. All the relevant plots are in the **plots** folder.
